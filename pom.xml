@@ -15,7 +15,8 @@
 	<name>prjchamado</name>
 	<description>Trabalho de conclusão - CallCenter</description>
 	<properties>
-		<java.version>11</java.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
